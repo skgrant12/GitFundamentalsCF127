@@ -8,3 +8,5 @@ Adding new information for later
 
 ## Git Commands 
 -[git config](./commands/Config.md)
+
+- [git-init](./Init.md)
